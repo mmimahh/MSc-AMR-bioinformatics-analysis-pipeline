@@ -10,15 +10,6 @@ You don't need to understand or edit any script except `config.sh`.
 
 ---
 
-## What "isolate" means
-
-An **isolate** is one bacterial sample (one genome). If you sequenced 40
-bacteria from 40 patients, you have 40 isolates, and one `.fasta` file per
-isolate. Every script in this pipeline works through your isolates one at a
-time and repeats the same analysis on each.
-
----
-
 ## What's in this folder
 
 ```
